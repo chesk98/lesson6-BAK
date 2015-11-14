@@ -1,0 +1,100 @@
+html {
+	font-family: Arial, "Helvetica", sans-serif;
+	
+}
+
+.heading {
+	background-color: white;
+
+}
+
+
+
+#logo {
+	width: 25%;
+	height: 25%;
+	float: left;
+}
+
+ .top {
+ 	font-weight: bold;
+ 	font-size: 20px;
+ 	text-align: center;
+ 	color: #007761;
+
+ 	float:left;
+ 	display: block;
+
+ 	width: 150px;
+ 	height: 60px;
+ 	margin: 10px;
+
+ 	text-decoration: none;
+ }
+
+ .NLG{
+ 	clear: left;
+    float: left;
+    color: #007761;
+ 	margin: 0 auto;
+
+
+ }
+
+ .NLG2{
+ 	clear: right;
+    float: right;
+    color: #007761;
+ 	margin: 0 auto;
+ 	
+ 	
+ }
+
+ .clearfix{
+ 	text-align: center;
+ 	color: #007761;
+
+ }
+
+#pc:hover{
+	background-color: grey;
+	padding: 10px;
+    border-radius: 20px;
+	border: 1px solid black;
+}
+
+#bw:hover{
+	background-color: grey;
+	padding: 10px;
+	border-radius: 100px;
+    border: 1px solid black;
+    border-spacing: 20px;
+    
+	
+}
+
+#bp:hover{
+	background-color: grey;
+	padding: 10px;
+	border-radius: 20px;
+	border: 1px solid black;
+}
+
+#bh:hover{
+	background-color: grey;
+	padding: 10px;
+	border-radius: 20px;
+	border: 1px solid black;
+}
+
+#cx:hover{
+	background-color: grey;
+	padding: 10px;
+	border-radius: 20px;
+	border: 1px solid black;
+}
+
+ 
+ 
+
+
