@@ -1,0 +1,77 @@
+ html{
+ 	background-color: black;
+ 	font: oblique;
+ }
+
+ h1 {
+ 	color: gold;
+ 	text-align: center;
+ }
+
+ h3 {
+ 	color: gold;
+ 	text-align: center;
+ }
+
+ #logo {
+	width: 75px;
+	height: 100px;
+
+	float: left
+
+ }
+
+ .top{
+    font-weight: bold;
+	font-size: 50;
+	text-align: center;
+
+	float: left;
+	display: block;
+
+	width: 200px;
+	height: 35px;
+	margin: 10px;
+
+	border: 3px solid gold;
+ }
+
+ 
+
+ a{
+ 	text-decoration: none;
+ 	color: gold;
+ }
+
+ a:hover{
+ 	color: silver;
+ }
+
+ p{
+ 	color: gold;
+ 	text-align: center;
+ 	clear: left;
+ 	float: left;
+ 	position: relative;
+ }
+
+.wrapper{
+	float: left;
+	clear: left;
+}
+
+.wrapper2{
+	float: right;
+}
+
+.fade{
+	color: gold;
+	text-align: center;
+}
+ 
+ button{
+ 	float: left;
+ 	clear: left;
+ }
+
+ 
